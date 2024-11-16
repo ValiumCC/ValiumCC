@@ -1,0 +1,6 @@
+my-repository/
+  ├── index.html
+  ├── styles.css
+  ├── script.js
+  ├── images/
+    └── product1.jpg
